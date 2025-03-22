@@ -6,3 +6,7 @@
 	path = moocore
 	url = https://github.com/multi-objective/moocore
 	subdir = r
+[submodule "mooplot"]
+	path = mooplot
+	url = https://github.com/multi-objective/mooplot
+	subdir = r
